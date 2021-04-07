@@ -1,0 +1,2471 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6700 XT (ID=0x73df)
+    Vendor:   ATI
+    VRAM:     12244 MB
+    Driver:   27.20.15003.1004
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 3440x1440 165Hz; virtual: 3440x1440 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.885447 ms
+Game mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.196603 ms
+Loading Mono
+Steamworks_RegisterMonoInterface()
+Successfully Hooked RenderAPI_D3D11 [Message]
+Machine ID: d919fc90c379ac9048f5488d7311aa2406f26bcd
+Model: System Product Name (Chillblast)
+OS: Windows 10  (10.0.0) 64bit
+Language: English
+CPU: AMD Ryzen 5 5600X 6-Core Processor  (12 core(s))
+System Memory: 16300
+Gfx Device: AMD Radeon RX 6700 XT
+Gfx Version: Direct3D 11.0 [level 11.1]
+Gfx Memory: 12244
+Gfx Shader Model: 50
+Game Version: 1.13.1-f1-steam-win
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading Steamworks
+Setting breakpad minidump AppID = 255710
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561199130077090 [API loaded no]
+DLC status: 67
+dlc 'Cities: Skylines - Preorder Pack' id: '340160' available: 'false'
+dlc 'Cities: Skylines - Deluxe Edition Upgrade Pack' id: '346791' available: 'false'
+dlc 'Cities: Skylines - Soundtrack' id: '352510' available: 'false'
+dlc 'Cities: Skylines - The Architecture Artbook' id: '352511' available: 'false'
+dlc 'Cities: Skylines - The Monuments Booklet' id: '352512' available: 'false'
+dlc 'Cities: Skylines - Post Cards' id: '355600' available: 'false'
+dlc 'Cities: Skylines - Korean language' id: '365040' available: 'false'
+dlc 'Cities: Skylines - After Dark' id: '369150' available: 'true'
+dlc 'Cities: Skylines - Snowfall' id: '420610' available: 'true'
+dlc 'Cities: Skylines - Match Day' id: '456200' available: 'true'
+dlc 'Cities: Skylines - Content Creator Pack: Art Deco' id: '515190' available: 'true'
+dlc 'Cities: Skylines - Natural Disasters' id: '515191' available: 'true'
+dlc 'Cities: Skylines - Juventus F.C Club Pack' id: '525940' available: 'false'
+dlc 'Cities: Skylines - Chelsea F.C Club Pack' id: '526610' available: 'false'
+dlc 'Cities: Skylines - FC Barcelona Club Pack' id: '526611' available: 'false'
+dlc 'Cities: Skylines - Paris Saint-Germain F.C.' id: '526612' available: 'false'
+dlc 'Cities: Skylines - Stadiums: European Club Pack' id: '536610' available: 'false'
+dlc 'Cities: Skylines - Content Creator Pack: High-Tech Buildings' id: '547500' available: 'true'
+dlc 'Cities: Skylines - Relaxation Station' id: '547501' available: 'true'
+dlc 'Cities: Skylines - Mass Transit' id: '547502' available: 'true'
+dlc 'Cities: Skylines - Pearls From the East' id: '563850' available: 'true'
+dlc 'Cities: Skylines - Green Cities' id: '614580' available: 'true'
+dlc 'Cities: Skylines - Industries' id: '715194' available: 'true'
+dlc 'Cities: Skylines - Parklife' id: '715191' available: 'true'
+dlc 'Cities: Skylines - Country Road Radio' id: '815380' available: 'true'
+Steam ID: 255710 [Message]
+Timed out waiting for game mapping!
+API: Steam Type: Steam
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting initial resolution to 3440 1440 True  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: Cities.exe --pdx-launcher-session-token cf160cec-38fa-42a4-a513-4905aa76949c --paradox-account-userid cac9ec69-05c9-49fe-9c00-750829c87179
+Arguments: Cities.exe, --pdx-launcher-session-token, cf160cec-38fa-42a4-a513-4905aa76949c, --paradox-account-userid, cac9ec69-05c9-49fe-9c00-750829c87179
+  [CommandLine - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Xml.dll (this message is harmless)
+Adding package 'CL Marin Bay' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CL Marin Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Murky Coast' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CL Murky Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Northwood Hills' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CL Northwood Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Roslyn Peninsula' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CL Roslyn Peninsula.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Wolf Creek' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CL Wolf Creek.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cliffside Bay' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'System' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CO.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'DN Azure Gulf' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\DN Azure Gulf.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'DN Crater Falls' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\DN Crater Falls.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'DN Desert Oasis' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\DN Desert Oasis.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'DN Fisher Enclave' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\DN Fisher Enclave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'DN Swamplands' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\DN Swamplands.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Grand River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Green Peaks' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Green Peaks.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Marble Canyon' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Marble Canyon.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Pearl Bay' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Pearl Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Twin Fjords' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Twin Fjords.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Woodgarden' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Woodgarden.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Cavern Coast' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Cavern Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Honu Island' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Honu Island.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Mountain Meadows' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Mountain Meadows.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Pine Rivers' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Pine Rivers.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Windfield' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Windfield.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter3Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter4Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter4Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter5Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter5Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'By The Dam' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Green Power.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '518783587' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\518783587\Koesj_Stack.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1363915351' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1363915351\Contraflow Left.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '516883327' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\516883327\Koesj_Turbine.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '513981113' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\513981113\Pinavia Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '524764895' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\524764895\London Underground S Stock.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410027027' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\410027027\Cargo Traffic Sponge.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2349100787' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2349100787\Helmsley test 2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2355478718' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2355478718\State Gymnasium.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2349641719' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2349641719\Aldi.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1379010791' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1379010791\2017 Land Rover Range Rover.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '473363212' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\473363212\BMW 325i (2002).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '482275622' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\482275622\Nuevoelemento.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1118522095' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1118522095\2014 Dodge Ram 1500.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '532884994' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\532884994\Shell Gas Truck.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '453610208' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\453610208\Tesla Model S.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '454476656' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\454476656\D3S MB Sprinter HRV (W906) '06.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '511883728' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\511883728\Guinness Semi Truck.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '470607508' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\470607508\Range Rover Evoque.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '658859533' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\658859533\ScaniaCitywideDDv1%002E1.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '565104353' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\565104353\ZED68-1959Cadillac.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '448150925' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\448150925\D3S MB Citaro C (O530) '11.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '556269743' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\556269743\Maersk Line Cargo Ship.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '459291513' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\459291513\D3S MB Actros MP IV '11 (BDFI).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '455536494' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\455536494\D3S MB Econic 2635 FAUN '13.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2320350332' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2320350332\Clus_PedPath#02P01.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2320350332' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2320350332\Clus_PedPath#02P02.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2320349745' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2320349745\Clus_PedPath#01P01.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2320349745' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2320349745\Clus_PedPath#01P02.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2320350768' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2320350768\Clus_PedPath#03P01.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2320350768' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2320350768\Clus_PedPath#03P02.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '780114600' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\780114600\Pedestrian Bridge.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1692201012' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1692201012\Volkswagen Crafter UK Ambulance.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1258457392' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1258457392\Škoda Yeti British Police.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '447379087' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\447379087\British Black Cab.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '473701384' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\473701384\BR Class 43 Trainset (Swallow).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '840693825' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\840693825\Volvo S60 II T6 - British Police.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '471301045' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\471301045\Mini AD update.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-big.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-bigac.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-chimney.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-cooling-tower.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-fan.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-garage.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-main.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-middle.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-pipes-a.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-pipes-b.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-pump.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-radiator.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-reactor-a.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-reactor-b.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-stack.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-subpipes-a.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-subpipes-b.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '903812356' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\903812356\r69-doel-yellowac.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1574615161' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1574615161\TrianonMaspV2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '430151916' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\430151916\Cynth_SubwayStation_1%002E2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2233079913' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2233079913\dubai-station-metro.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '788215036' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\788215036\Gyroscope.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410592212' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\410592212\High Dense Industry.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '620950538' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\620950538\Dogbone.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '779639864' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\779639864\blackwiddow Railway Half Clover.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '800515680' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\800515680\Lindblum International Airport.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1901821044' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1901821044\Cul De Sac L.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1901821044' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1901821044\Cul De Sac M.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1901821044' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1901821044\Cul De Sac S.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1901821044' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1901821044\Cul De Sac XL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '686449179' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\686449179\Road Underpass.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '405777360' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\405777360\Elevated Pedestrian Roundabout.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2378246533' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2378246533\condo_55m8x5.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2381162080' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2381162080\Spot Yankee V2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2381162080' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2381162080\Yankee Stadium.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '963657618' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\963657618\CIMTaxi Depot.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '963657618' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\963657618\Empty CIMTaxi Depot.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '957657304' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\957657304\Fire Station 17.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_1x1_EVParking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_1x1_HandiParking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_1x1_Parking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_1x1_Single.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_22M.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_3x2_Parking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_40M.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_4x1_Parking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_4x2_Parking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_58M.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ParkingLot_8x2_Parking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1285201733' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1285201733\ServiceRoad_16M.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '578880823' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\578880823\Telescope Dish.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '624474022' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\624474022\FishbusAdvCrematorium.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1351675306' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1351675306\Public Library.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '547345271' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\547345271\Track and field 200m.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '415274778' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\415274778\RecyclingCenter.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '839022950' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\839022950\Police Headquarters.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '431229239' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\431229239\Large Water Intake.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '879083217' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\879083217\Fire Department 17.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1128919057' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1128919057\Freight Terminal Storage.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1128919057' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1128919057\Freight Terminal.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '432840529' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\432840529\LargeRecyclingCenter.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '858102805' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\858102805\University Hospital.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '528504993' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\528504993\SHELL gas station.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '770849513' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\770849513\blackwiddow Simple Highway Exit.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410150158' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\410150158\MCDRYE_SunkenPlaza.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '528991062' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\528991062\Timboh's Diverging Windmill Int%002E.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '492618933' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\492618933\Timboh's Motorway Rest Area.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '529645954' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\529645954\Timboh's SPUPCLO Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '420207843' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\420207843\imboh's C%002FE Cloverstack Interc%002E.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409503100' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\409503100\Timboh's Roundabout Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '412785623' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\412785623\Timboh's Y-Stack Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408953343' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\408953343\Timboh's U-Pentagon Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '407933700' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\407933700\Timboh's Spaghetti Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406269372' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\406269372\Timboh's Turbine Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408338500' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\408338500\Timboh's Pentagon Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '411400601' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\411400601\Timboh's S-Dir%002E B-Trumpet Inte%002E.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408498349' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\408498349\Timboh's Gothic Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408653760' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\408653760\Timboh's DCMI Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '407932338' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\407932338\Timboh's Inner Cloverstack Inte%002E.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406647772' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\406647772\Timboh's Clovermill Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406647401' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\406647401\Timboh's Cloverstack Interchange.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2303568726' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2303568726\Ocean City Apt 04.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2303568726' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2303568726\Ocean City Apt 05.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2303568726' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2303568726\Ocean City Apt 06.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '2372478108' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2372478108\StarbucksMN.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '519508928' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\519508928\Skatepark - Bowl.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '812125426' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\BridgePillar.CableStay32m.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '812125426' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\RetractBollard.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '812125426' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\RoadPlanter1.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '812125426' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\StoneBollard.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '812125426' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Wood8mEPillar.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '812125426' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\WoodBollard.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '428326414' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\428326414\Intersection003.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1145223801' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1145223801\Ability to Read.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1135809764' [C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1135809764\cargotransferstation.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cyclington experiment' [cloud:Cyclington experiment.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cyclington' [cloud:Cyclington.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Musicville' [cloud:Musicville.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [cloud:NewSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Nobreakington' [cloud:Nobreakington.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Nobreakington breaking' [cloud:Nobreakington breaking.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A4FDC50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A4FDC50.dll
+Non platform assembly: data-000000000FB73410 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000000FB73410.dll
+Non platform assembly: data-000000001A4FF460 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A4FF460.dll
+Non platform assembly: data-000000001A514980 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A514980.dll
+Non platform assembly: data-000000001A4A38B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A4A38B0.dll
+Non platform assembly: data-000000001A56F020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A56F020.dll
+Non platform assembly: data-000000001A515B90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A515B90.dll
+Non platform assembly: data-000000001A58AA30 (this message is harmless)
+Non platform assembly: data-000000001A58AA30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A58AA30.dll
+Non platform assembly: data-000000001A59BE40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A59BE40.dll
+Non platform assembly: data-000000001A5A7E50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A5A7E50.dll
+Non platform assembly: data-000000001A5D0E60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A5D0E60.dll
+Non platform assembly: data-000000001A5D3E70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A5D3E70.dll
+Non platform assembly: data-000000001A636880 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A636880.dll
+Non platform assembly: data-000000001A652C90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A652C90.dll
+Non platform assembly: data-000000001A657AA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A657AA0.dll
+Non platform assembly: data-000000001A65F0C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A65F0C0.dll
+Non platform assembly: data-000000001A6624D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6624D0.dll
+Non platform assembly: data-000000001A69F4F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A69F4F0.dll
+Non platform assembly: data-000000001A6A9700 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6A9700.dll
+Non platform assembly: data-000000001A6AC920 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6AC920.dll
+Non platform assembly: data-000000001A6B1130 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6B1130.dll
+Non platform assembly: data-000000001A6BB140 (this message is harmless)
+Non platform assembly: data-000000001A6BB140 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6BB140.dll
+Non platform assembly: data-000000001A6BCD50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6BCD50.dll
+Non platform assembly: data-000000001A6BFD60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6BFD60.dll
+Non platform assembly: data-000000001A6CE570 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6CE570.dll
+Non platform assembly: data-000000000FB248D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000000FB248D0.dll
+Non platform assembly: data-000000001B5C3040 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001B5C3040.dll
+Non platform assembly: data-000000001A4AD900 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A4AD900.dll
+Non platform assembly: data-000000001A6D4FA0 (this message is harmless)
+Non platform assembly: data-000000001A6D4FA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A6D4FA0.dll
+Non platform assembly: data-000000001A7247B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7247B0.dll
+Non platform assembly: data-000000001A7269C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7269C0.dll
+Non platform assembly: data-000000001A73B7D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A73B7D0.dll
+Non platform assembly: data-000000001A73D5E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A73D5E0.dll
+Non platform assembly: data-000000001A741FF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A741FF0.dll
+Non platform assembly: data-000000001A74E420 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A74E420.dll
+Non platform assembly: data-000000001A76A240 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A76A240.dll
+Non platform assembly: data-000000001A76E660 (this message is harmless)
+Non platform assembly: data-000000001A76E660 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A76E660.dll
+Non platform assembly: data-000000001A773270 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A773270.dll
+Non platform assembly: data-000000001A7C3280 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7C3280.dll
+Non platform assembly: data-000000001A7C4C90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7C4C90.dll
+Non platform assembly: data-000000001A7CB4B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7CB4B0.dll
+Non platform assembly: data-000000001A7D14C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7D14C0.dll
+Non platform assembly: data-000000001A7D74D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7D74D0.dll
+Non platform assembly: data-000000001A7DB0E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7DB0E0.dll
+Non platform assembly: data-000000001A7E0B00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7E0B00.dll
+Non platform assembly: data-000000001A7E6B10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7E6B10.dll
+Non platform assembly: data-000000001A7ECB20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7ECB20.dll
+Non platform assembly: data-000000001A7F3B30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7F3B30.dll
+Non platform assembly: data-000000001A7FBB40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7FBB40.dll
+Non platform assembly: data-000000001A7FFF60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A7FFF60.dll
+Non platform assembly: data-000000001A80C190 (this message is harmless)
+Non platform assembly: data-000000001A82BBB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A82BBB0.dll
+Non platform assembly: data-000000001A80C190 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A80C190.dll
+Non platform assembly: data-000000001A81C7A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A81C7A0.dll
+Non platform assembly: data-000000001A85D7C0 (this message is harmless)
+Non platform assembly: data-000000001A85D7C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A85D7C0.dll
+Non platform assembly: data-000000001A8621D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A8621D0.dll
+Non platform assembly: data-000000001A87DBE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A87DBE0.dll
+Non platform assembly: data-000000001A89F600 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A89F600.dll
+Non platform assembly: data-000000001A95CC40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A95CC40.dll
+Non platform assembly: data-000000001A981450 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A981450.dll
+Non platform assembly: data-000000001A9A6260 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A9A6260.dll
+Non platform assembly: data-000000001A9CEC70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A9CEC70.dll
+Non platform assembly: data-000000001A9D0280 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A9D0280.dll
+Non platform assembly: data-000000001A9F8E90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A9F8E90.dll
+Non platform assembly: data-000000001A4AB8F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A4AB8F0.dll
+Non platform assembly: data-000000001AA10AB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AA10AB0.dll
+Non platform assembly: data-000000001AA638C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AA638C0.dll
+Non platform assembly: data-000000001AA6E0D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AA6E0D0.dll
+Non platform assembly: data-000000001AA832E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AA832E0.dll
+Non platform assembly: data-000000001AA89EF0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AA89EF0.dll
+Non platform assembly: data-000000001AAAB910 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AAAB910.dll
+Non platform assembly: data-000000001AAB7F20 (this message is harmless)
+Non platform assembly: data-000000001AAB7F20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AAB7F20.dll
+Non platform assembly: data-000000001AABE930 (this message is harmless)
+Non platform assembly: data-000000001AABE930 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AABE930.dll
+Non platform assembly: data-000000001AAC6540 (this message is harmless)
+Non platform assembly: data-000000001AAC6540 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AAC6540.dll
+Non platform assembly: data-000000001AACA150 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AACA150.dll
+Non platform assembly: data-000000001AACCF70 (this message is harmless)
+Non platform assembly: data-000000001AACCF70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AACCF70.dll
+Non platform assembly: data-000000001AAEE180 (this message is harmless)
+Non platform assembly: data-000000001AAEE180 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AAEE180.dll
+Non platform assembly: data-000000001AB06390 (this message is harmless)
+Non platform assembly: data-000000001AB06390 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AB06390.dll
+Non platform assembly: data-000000001ABC03A0 (this message is harmless)
+Non platform assembly: data-000000001AC823C0 (this message is harmless)
+Non platform assembly: data-000000001ABC03A0 (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\HardMode\HardMode.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC823C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC823C0.dll
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedMoney\UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC88C50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC88C50.dll
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedOilAndOre\UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC84060 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC84060.dll
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedSoil\UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC85700 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC85700.dll
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlockAll\UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A4B3930 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A4B3930.dll
+Assembly UnlockAll0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2303997489\0Harmony.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ABD63D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ABD63D0.dll
+Assembly 0Harmony, Version=1.2.0.1, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1721492498\CargoHoldFix.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ABF43F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ABF43F0.dll
+Assembly CargoHoldFix, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1890830956\UndoMod.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ABF84D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ABF84D0.dll
+Assembly UndoMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\592076973\ZoningToggles.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC16950 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC16950.dll
+Assembly ZoningToggles, Version=1.0.7604.34129, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\576327847\EightyOne.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC299B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC299B0.dll
+Assembly EightyOne, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2027161563\CitiesHarmony.API.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC74A10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC74A10.dll
+Assembly CitiesHarmony.API, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1758376843\NetworkSkins.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AC89D70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AC89D70.dll
+Assembly NetworkSkins, Version=1.0.7728.33043, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\466158459\BuildingThemes.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD017F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD017F0.dll
+Assembly BuildingThemes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\ObjUnity3D.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD1FC10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD1FC10.dll
+Assembly ObjUnity3D, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\515489008\ElevatedTrainStationTrack.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD26220 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD26220.dll
+Assembly ElevatedTrainStationTrack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1440928803\0RedirectionFramework.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD2B030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD2B030.dll
+Assembly RedirectionFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1440928803\1ParallelRoadTool.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD2E440 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD2E440.dll
+Assembly ParallelRoadTool, Version=2.0.7435.24167, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\787611845\PropSnapping.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD6A450 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD6A450.dll
+Assembly PropSnapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\556784825\RandomTreeRotation.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD7D680 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD7D680.dll
+Assembly RandomTreeRotation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\650436109\QuayAnarchy.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD878A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD878A0.dll
+Assembly QuayAnarchy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\593588108\PropAnarchy.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AD8C0B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AD8C0B0.dll
+Assembly PropAnarchy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1637663252\CSUtil.CameraControl.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ADC8020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ADC8020.dll
+Assembly CSUtil.CameraControl, Version=1.0.7630.2191, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1637663252\CSUtil.Commons.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ADC9C30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ADC9C30.dll
+Assembly CSUtil.Commons, Version=1.0.7630.2191, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1637663252\TMPE.GenericGameBridge.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000000FB220C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000000FB220C0.dll
+Assembly TMPE.GenericGameBridge, Version=11.5.1.2191, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1637663252\TMPE.API.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ADD6C60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ADD6C60.dll
+Assembly TMPE.API, Version=11.5.1.2192, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1637663252\TMPE.CitiesGameBridge.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001ADF5C60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001ADF5C60.dll
+Assembly TMPE.CitiesGameBridge, Version=11.5.1.2192, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1637663252\TrafficManager.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000020D5D040 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000020D5D040.dll
+Assembly TrafficManager, Version=11.5.1.2192, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Transit.Framework.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AE77020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AE77020.dll
+Assembly Transit.Framework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\NetworkExtensions2.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AE5F690 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AE5F690.dll
+Assembly NetworkExtensions2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Transit.Framework.ExtensionPoints.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AE1E0B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AE1E0B0.dll
+Assembly Transit.Framework.ExtensionPoints, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Transit.Addon.RoadExtensions.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AE8BE30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AE8BE30.dll
+Assembly Transit.Addon.RoadExtensions, Version=0.8.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Transit.Addon.Tools.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AEFD660 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AEFD660.dll
+Assembly Transit.Addon.Tools, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Transit.Framework.Redirection.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF43010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF43010.dll
+Assembly Transit.Framework.Redirection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812125426\Transit.Framework.Hooks.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF48430 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF48430.dll
+Assembly Transit.Framework.Hooks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1548831935\AdvancedVehicleOptions.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF4CE40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF4CE40.dll
+Assembly AdvancedVehicleOptions, Version=1.0.7436.35467, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\812107110\LessSteamTraffic.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF69C60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF69C60.dll
+Assembly LessSteamTraffic, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1938493221\Mini_FPS_Booster.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF6D070 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF6D070.dll
+Assembly Mini_FPS_Booster, Version=1.0.7289.41395, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\MoveItIntegration.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF71C80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF71C80.dll
+Assembly MoveItIntegration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\MoveIt.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AF7B6A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AF7B6A0.dll
+Assembly MoveIt, Version=2.9.2.32648, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\de\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AFCB6B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AFCB6B0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=de, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\es\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AFD16C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AFD16C0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=es, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\fr\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021290080 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021290080.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=fr, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\ja\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AFD76D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AFD76D0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=ja, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\ko\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001AFDB2E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001AFDB2E0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=ko, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\pl\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002129E0A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002129E0A0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=pl, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\pt\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212AC0C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212AC0C0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=pt, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\ru\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212B20D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212B20D0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=ru, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\th\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212B90E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212B90E0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=th, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1619685021\zh-cn\MoveIt.resources.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212C10F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212C10F0.dll
+Assembly MoveIt.resources, Version=2.9.2.32648, Culture=zh-cn, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1393452031\Parkify.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212C4500 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212C4500.dll
+Assembly Parkify, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\ImprovedPublicTransport2.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212CD710 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212CD710.dll
+Assembly ImprovedPublicTransport2, Version=1.0.6177.17409, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1844442251\FineRoadTool.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000212FF320 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000212FF320.dll
+Assembly FineRoadTool, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\410151616\CityVitalsWatch.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002130F930 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002130F930.dll
+Assembly CityVitalsWatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\912329352\BuildingAnarchy.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002131A550 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002131A550.dll
+Assembly BuildingAnarchy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1627986403\BulldozeIt.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002131FF70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002131FF70.dll
+Assembly BulldozeIt, Version=1.4.6989.17229, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1625704117\RoundaboutBuilder.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002133B980 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002133B980.dll
+Assembly RoundaboutBuilder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1844440354\FineRoadAnarchy.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000213673B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000213673B0.dll
+Assembly FineRoadAnarchy, Version=2.0.2.1, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\Mono.Cecil.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021439030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021439030.dll
+Assembly Mono.Cecil, Version=0.10.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\MonoMod.Common.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000214E77D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000214E77D0.dll
+Assembly MonoMod.Common, Version=21.3.15.0, Culture=neutral, PublicKeyToken=ae5dff7855dd9c16 loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\IAmAware-0.0.1.0.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000214C87E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000214C87E0.dll
+Assembly IAmAware, Version=0.0.1.0, Culture=neutral, PublicKeyToken=8625d3dcfab56202 loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\0Harmony_2.0.0.9_impostor.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002152CA90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002152CA90.dll
+Assembly 0Harmony, Version=2.0.0.9, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\0Harmony-2.0.1.0_impostor.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002163CFD0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002163CFD0.dll
+Assembly 0Harmony, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\0Harmony.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002173B010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002173B010.dll
+Assembly 0Harmony, Version=2.0.4.0, Culture=neutral, PublicKeyToken=8625d3dcfab56202 loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\CitiesHarmony.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021763A20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021763A20.dll
+Assembly CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class HarmonyLib.Harmony could not be loaded, used in CitiesHarmony.Harmony, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null
+ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.Plugins.PluginManager+PluginInfo.AddAssembly (System.Reflection.Assembly asm) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+ColossalFramework.Plugins.PluginInfo:AddAssembly(Assembly)
+ColossalFramework.Plugins.PluginManager:LoadDependenciesRecursive(Assembly, Dictionary`2, Dictionary`2, List`1)
+ColossalFramework.Plugins.PluginManager:LoadDependencies(Dictionary`2, Dictionary`2)
+ColossalFramework.Plugins.PluginManager:LoadAssemblies(Dictionary`2)
+ColossalFramework.Plugins.PluginManager:LoadPlugins()
+Starter:Awake()
+ 
+(Filename:  Line: -1)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\CitiesHarmony.Harmony.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000217C7020 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000217C7020.dll
+Assembly CitiesHarmony.Harmony, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\0Harmony-2.0.1.0_impostor.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021883F50 (this message is harmless)
+Assembly 0Harmony, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\0Harmony_2.0.0.9_impostor.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021883F50 (this message is harmless)
+Assembly 0Harmony, Version=2.0.0.9, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\CitiesHarmony.Harmony.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021883F50 (this message is harmless)
+Assembly CitiesHarmony.Harmony, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\HarmonyMod-0.9.21.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021883F50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021883F50.dll
+Assembly HarmonyMod, Version=1.0.0.11, Culture=neutral, PublicKeyToken=8625d3dcfab56202 loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\Mono.Cecil.Mdb.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000218B1B80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000218B1B80.dll
+Assembly Mono.Cecil.Mdb, Version=0.10.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\Mono.Cecil.Pdb.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000218C43A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000218C43A0.dll
+Assembly Mono.Cecil.Pdb, Version=0.10.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2399343344\Mono.Cecil.Rocks.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000218D95B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000218D95B0.dll
+Assembly Mono.Cecil.Rocks, Version=0.10.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\650805785\FPSCamera.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000218E01C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000218E01C0.dll
+Assembly FPSCamera, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\1562650024\CSL_RebalancedIndustriesDistricts.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000218FE010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000218FE010.dll
+Assembly CSL_RebalancedIndustriesDistricts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2368396560\EnhancedOutsideConnectionsView.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021904A20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021904A20.dll
+Assembly EnhancedOutsideConnectionsView, Version=1.4.7764.19598, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2367735356\UnlimitedOutsideConnectionsRevisited.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002190C630 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002190C630.dll
+Assembly UnlimitedOutsideConnectionsRevisited, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2349240408\AutoLineBudget.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021911250 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021911250.dll
+Assembly AutoLineBudget0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2303997489\EnhancedDistrictServices.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000021913060 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000021913060.dll
+Assembly EnhancedDistrictServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2027161563\LifecycleRebalanceRevisited.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000219346E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000219346E0.dll
+Assembly LifecycleRebalanceRevisited, Version=1.5.3.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\2040656402\0Harmony_2.0.0.8_impostor.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000002194C8F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000002194C8F0.dll
+Assembly 0Harmony, Version=2.0.0.8, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'OptimisedOutsideConnections' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\OptimisedOutsideConnections.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'UndoMod' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+The class HarmonyLib.Harmony could not be loaded, used in CitiesHarmony.Harmony, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null
+TFW: Redirecting from GeneratedGroupPanel.SpawnButtonEntry to Transit.Framework.Hooks.UI.TAMGeneratedGroupPanel.SpawnButtonEntry
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TFW: Redirecting from RoadsGroupPanel.GetCategoryOrder to Transit.Framework.Hooks.UI.TAMRoadsGroupPanel.GetCategoryOrder
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TFW: Redirecting from RoadAI.CreateZoneBlocks to Transit.Framework.Hooks.AI.TAMRoadAI.CreateZoneBlocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TFW: Redirecting from NetAI.GetLengthSnap to Transit.Framework.Hooks.AI.TAMRoadAI.GetLengthSnap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TFW: Redirecting from NetAI.CheckBuildPosition to Transit.Framework.Hooks.AI.TAMNetAI.CheckBuildPosition
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TFW: Redirecting from Transit.Framework.Hooks.AI.TAMNetAI.ForceValidDirection to NetAI.ForceValidDirection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TFW: Redirecting from Transit.Framework.Hooks.AI.TAMNetAI.ForceValidDirection to NetAI.ForceValidDirection
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+The class <>c__DisplayClass2_0 could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+GameSettings: 'ParallelRoadTool' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\ParallelRoadTool.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mini FPS Booster mod enabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'MoveItTool' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\MoveItTool.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'FineRoadTool' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\FineRoadTool.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'RoundaboutBuilder' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\RoundaboutBuilder.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Harmony 0.9] ERROR FAIL TO INIT:
+Field 'HarmonyLib.Harmony.awarenessInstance' not found. ... 
+   at HarmonyMod.Patcher..ctor (IAmAware selfMod, System.String name, Boolean onAwarenessCallback) [0x00000] in <filename unknown>:0 
+  at HarmonyMod.Mod.OnActive () [0x00000] in <filename unknown>:0 
+  at HarmonyMod.Mod.OnEnabled () [0x00000] in <filename unknown>:0 
+
+call from    at HarmonyMod.Mod.OnEnabled()
+   at System.Reflection.MonoMethod.InternalInvoke(System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at ColossalFramework.Plugins.PluginManager.AddPlugins(System.Collections.Generic.Dictionary`2 plugins)
+   at ColossalFramework.Plugins.PluginManager.LoadPlugins()
+   at Starter.Awake()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Harmony 0.9] ERROR (smMR) - Failed to initialize Harmony Mod: Field 'HarmonyLib.Harmony.awarenessInstance' not found.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class <>c__DisplayClass2_0 could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+TypeLoadException: Could not load type '<>c__DisplayClass2_0' from assembly 'CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null'.
+
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for CitiesHarmony.Installer
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at CitiesHarmony.API.HarmonyHelper.InvokeHarmonyInstaller () [0x00000] in <filename unknown>:0 
+  at CitiesHarmony.API.HarmonyHelper.get_IsHarmonyInstalled () [0x00000] in <filename unknown>:0 
+  at CitiesHarmony.API.HarmonyHelper.EnsureHarmonyInstalled () [0x00000] in <filename unknown>:0 
+  at EnhancedOutsideConnectionsView.EOCV.OnEnabled () [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at ColossalFramework.Plugins.PluginManager.AddPlugins (System.Collections.Generic.Dictionary`2 plugins) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+ColossalFramework.Plugins.PluginManager:AddPlugins(Dictionary`2)
+ColossalFramework.Plugins.PluginManager:LoadPlugins()
+Starter:Awake()
+ 
+(Filename:  Line: -1)
+
+Loading locale: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 7.652858 ms (FindLiveObjects: 0.090095 ms CreateObjectMapping: 0.071726 ms MarkObjects: 7.473575 ms  DeleteObjects: 0.007612 ms)
+
+OnUserStatsReceived()
+Received stats and achievements
+OnUserStatsStored()
+Stored successfully
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.201561 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 4.376254 ms (FindLiveObjects: 0.050634 ms CreateObjectMapping: 0.044000 ms MarkObjects: 4.269187 ms  DeleteObjects: 0.006704 ms)
+
+PopsApi: Popping task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: Terms-of-use-2019-04-05
+PopsApi: Popping task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: privacy-policy-2018-11-02
+PNG
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+The class <>c__DisplayClass2_0 could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+The class <>c__DisplayClass2_0 could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+GameSettings: 'TMPE_Keybinds' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+MoveIt | [Info] 0.0002774 | MoveIt v2.9.2.32648
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MoveIt | [Debug] 0.0014435 | Move It Locale changed ->en
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\de.txt. Detected locale name: de
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\en.txt. Detected locale name: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\es.txt. Detected locale name: es
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\fr.txt. Detected locale name: fr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\it.txt. Detected locale name: it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\ko.txt. Detected locale name: ko
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\kr.txt. Detected locale name: kr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\pl.txt. Detected locale name: pl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\pt.txt. Detected locale name: pt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\ru.txt. Detected locale name: ru
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\zh-cn.txt. Detected locale name: zh-cn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\zh-tw.txt. Detected locale name: zh-tw
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: C:\Program Files (x86)\Steam\steamapps\workshop\content\255710\928128676\Locale\zh.txt. Detected locale name: zh
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+The class <>c__DisplayClass2_0 could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PopsApi: Pushing task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+QueryUGCContent
+PopsApi: [CDiskstorage] Error: Root path is empty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CDiskstorage] Error reading failed achievement calls cache, file IO or root path not set
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+RequestItemDetails
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+Lifecycle Rebalance Revisited: setting language to system.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.Plugins.PluginManager+PluginInfo.GetInstances[IUserMod] () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+ColossalFramework.Plugins.PluginInfo:GetInstances()
+EntryData:GenerateData()
+EntryData:.ctor(PluginInfo)
+CategoryContentPanel:RefreshAssetsModImpl()
+CategoryContentPanel:RefreshAssets()
+CategoryContentPanel:Refresh()
+ContentManagerPanel:RefreshCategory(UIComponent)
+ContentManagerPanel:Initialize()
+MenuPanel:Start()
+ 
+(Filename:  Line: -1)
+
+RequestItemDetails
+RequestItemDetails
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.Plugins.PluginManager+PluginInfo.GetInstances[IUserMod] () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+ColossalFramework.Plugins.PluginInfo:GetInstances()
+PackageEntry:DealWithOptions()
+PackageEntry:OnEntryDataChanged()
+PackageEntry:SetEntry(EntryData)
+CategoryContentPanel:RefreshEntries()
+CategoryContentPanel:RefreshAssets()
+CategoryContentPanel:Refresh()
+ContentManagerPanel:RefreshCategory(UIComponent)
+ContentManagerPanel:Initialize()
+MenuPanel:Start()
+ 
+(Filename:  Line: -1)
+
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+OnSteamUGCQueryCompleted
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.Plugins.PluginManager+PluginInfo.get_userModInstance () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+ColossalFramework.Plugins.PluginInfo:get_userModInstance()
+TrafficManager.Util.ModsCompatibilityChecker:GetModName(PluginInfo)
+TrafficManager.Util.ModsCompatibilityChecker:ScanForIncompatibleMods()
+TrafficManager.Util.ModsCompatibilityChecker:PerformModCheck()
+TrafficManager.TrafficManagerMod:CheckForIncompatibleMods()
+<LoadIntroComplete>c__Iterator8:MoveNext()
+LoadingManager:Update()
+ 
+(Filename:  Line: -1)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+PopsApi: Pushing task: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The class CitiesHarmony.Harmony1StateTransfer could not be loaded, used in CitiesHarmony, Version=1.0.7744.698, Culture=neutral, PublicKeyToken=null
+ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ColossalFramework.Plugins.PluginManager+PluginInfo.GetInstances[IUserMod] () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+ColossalFramework.Plugins.PluginInfo:GetInstances()
+PackageEntry:DealWithOptions()
+PackageEntry:OnEntryDataChanged()
+PackageEntry:SetEntry(EntryData)
+EntryData:OnDetailsReceived(UGCDetails, Boolean)
+CategoryContentPanel:OnDetailsReceived(UGCDetails, Boolean)
+ColossalFramework.PlatformServices.Workshop:EventUGCRequestUGCDetailsCompleted(UGCDetails, Boolean)
+ColossalFramework.PlatformServices.PlatformService:TriggerUGCRequestUGCDetailsCompleted(UGCDetails, Boolean)
+ColossalFramework.PlatformServices.PlatformService:RunCallbacks()
+ColossalFramework.PlatformServices.PlatformServiceBehaviour:Update()
+ 
+(Filename:  Line: -1)
+
+m_SteamUGCRequestMap error: 15
+  [PlatformService, Native - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+m_SteamUGCRequestMap error: 15
+ [Warning]
+Error downloading image: 404 Not Found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error downloading image: 404 Not Found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error downloading image: 404 Not Found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error downloading image: 404 Not Found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading 'previewfile_2445720578.png' for 2445720578
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2442937069.png' for 2442937069
+PNG
+Loading 'previewfile_2442936146.png' for 2442936146
+PNG
+PopsApi: Popping task: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Avatar image idx 3, 76561199130077090
+Paradox Account successfully authenticated!  [HTTP]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading 'previewfile_2442933465.png' for 2442933465
+PNG
+Loading 'previewfile_2445943262.png' for 2445943262
+PNG
+Loading 'previewfile_2444279475.png' for 2444279475
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2443604929.png' for 2443604929
+PNG
+Loading 'previewfile_2446047139.png' for 2446047139
+PNG
+Loading 'previewfile_2442935280.png' for 2442935280
+PNG
+Loading 'previewfile_2446435605.png' for 2446435605
+PNG
+Loading 'previewfile_2443859369.png' for 2443859369
+PNG
+Loading 'previewfile_2442455459.png' for 2442455459
+PNG
+Loading 'previewfile_2445599300.png' for 2445599300
+PNG
+Saving C:\Users\phill\AppData\Local\Colossal Order\Cities_Skylines\gameSettings.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading 'previewfile_2444405558.png' for 2444405558
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2448799183.png' for 2448799183
+PNG
+Loading 'previewfile_2442865669.png' for 2442865669
+PNG
+Loading 'previewfile_2443126644.png' for 2443126644
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2447365829.png' for 2447365829
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2448288504.png' for 2448288504
+PNG
+Loading 'previewfile_2448849713.png' for 2448849713
+PNG
+Loading 'previewfile_2448266522.png' for 2448266522
+PNG
+Loading 'previewfile_2442374456.png' for 2442374456
+PNG
+Loading 'previewfile_2447538186.png' for 2447538186
+PNG
+Loading 'previewfile_2448482143.png' for 2448482143
+PNG
+Loading 'previewfile_2447344484.png' for 2447344484
+PNG
+Loading 'previewfile_2446133500.png' for 2446133500
+PNG
+Loading 'previewfile_2443881810.png' for 2443881810
+PNG
+Loading 'previewfile_2447424731.png' for 2447424731
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2446132785.png' for 2446132785
+PNG
+Loading 'previewfile_2445968961.png' for 2445968961
+PNG
+Loading 'previewfile_2447254294.png' for 2447254294
+PNG
+Loading 'previewfile_2444631124.png' for 2444631124
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2443197563.png' for 2443197563
+PNG
+Loading 'previewfile_2442974192.png' for 2442974192
+PNG
+Loading 'previewfile_2445572603.png' for 2445572603
+PNG
+Loading 'previewfile_2445919722.png' for 2445919722
+PNG
+Loading 'previewfile_2442773732.png' for 2442773732
+PNG
+Loading 'previewfile_2446471490.png' for 2446471490
+PNG
+Loading 'previewfile_2446861331.png' for 2446861331
+PNG
+Loading 'previewfile_2443885282.png' for 2443885282
+PNG
+Loading 'previewfile_2442489259.png' for 2442489259
+PNG
+Loading 'previewfile_2446443393.png' for 2446443393
+PNG
+Loading 'previewfile_2444824623.png' for 2444824623
+PNG
+Loading 'previewfile_2442412371.png' for 2442412371
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2443570279.png' for 2443570279
+PNG
+Loading 'previewfile_2442748089.png' for 2442748089
+PNG
+Loading 'previewfile_2449106158.jpg' for 2449106158
+JPG
+Loading 'previewfile_2448185458.png' for 2448185458
+PNG
+Loading 'previewfile_2447848086.png' for 2447848086
+PNG
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading 'previewfile_2446057498.png' for 2446057498
+PNG
